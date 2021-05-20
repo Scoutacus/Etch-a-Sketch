@@ -1,7 +1,16 @@
 #container{
     color:black;
     background-color: aqua;
+    height: 100%;
+    width: 100%;
 }
 body{
     color:black;
+}
+div{
+    display: inline-block;
+    background-color: red;
+    width: 10%;
+    height: 10%;
+    margin: 5px;
 }
