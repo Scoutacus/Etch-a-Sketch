@@ -1,0 +1,1 @@
+The purpose of this project is to make a etch-a-sketch for practice!
