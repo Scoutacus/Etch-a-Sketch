@@ -3,6 +3,7 @@ function addElement(){
     item.setAttribute('id', 'children');
     item.addEventListener("mouseover",func,false);
     document.getElementById("container").appendChild(item)
+    event.stopPropagation();
 }
 
 
